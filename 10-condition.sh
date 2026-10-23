@@ -6,7 +6,7 @@ read marks
 # lt -> less than
 
 if [ $marks -lt 33 ]; then
-    echo "fail"
+    echo "Fail"
 elif [ $marks -lt 50 ]; then
     echo "Third class"
 elif [ $marks -lt 60 ]; then
